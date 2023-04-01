@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ReciclaApp</string>
+    <string name="titulo1">APP AMBIENTAL </string>
+    <string name="siguiente">SIGUIENTE</string>
+    <string name="titlo2">RECICLA YA</string>
+    <string name="verde">RESIDUOS ORGANICOS APROBECHABLES(restos de comida, desechos agricolas)</string>
+    <string name="blanco">RECIDOS APROBECHABLES(plastico carton vidrio metales)</string>
+    <string name="negro"> RESIDUOS NO APROVECHABLES(pal higenico, sevilletas carton y papeles contaminados)</string>
+    <string name="titlo3">MENU</string>
+    <string name="titlo4">TIPOS</string>
+    <string name="titlo5">METODOS</string>
+</resources>
